@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-<!--
-**Abrish-seng/Abrish-seng** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ 
 
 Here are some ideas to get you started:
 
@@ -13,7 +12,7 @@ Here are some ideas to get you started:
 - 📫 How to reach me: Facebook LinkedIn 
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
--->
+
 
 ## 🌐 Socials:
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/https://discord.com/channels/@me) [![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/Abrish Jebreslassie) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/abrhaley-g-slassie-aa56661b1/) 
