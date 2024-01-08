@@ -2,7 +2,7 @@
 
  
 
-Here are some ideas to get you started:
+Here are some ideas to get you know me:
 
 - 🔭 I’m currently working on web development 
 - 🌱 I’m currently learning Django and react
