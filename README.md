@@ -4,10 +4,10 @@
 
 Here are some ideas to get you know me:
 
-- 🔭 I’m currently working on web development 
+- 🔭 I’m currently working on web development & software developer at Alx Africa
 - 🌱 I’m currently learning Django and react
-- 👯 I’m looking to collaborate on remote software development
-- 🤔 I’m looking for help with ...
+- 👯 I’m looking to collaborate on remote software development with react
+- 🤔 I’m looking for help with ...AWS
 - 💬 Ask me about ...
 - 📫 How to reach me: Facebook LinkedIn 
 - 😄 Pronouns: ...
